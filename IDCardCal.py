@@ -220,10 +220,8 @@ class IDCard():
 
 if __name__ == "__main__":
     calIDCard = IDCard()
-    # calIDCard.run('452402199209265175')
     # calIDCard.run('4524021992****5175')
     # calIDCard.run('6104301992****052X')
     # calIDCard.run('4128251990****702X')
-    # calIDCard.run('440785199807214611')
     calIDCard.run('3710821980****7111')
     
